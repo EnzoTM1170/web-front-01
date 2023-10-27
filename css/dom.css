@@ -1,0 +1,34 @@
+.container{
+    max-width: 700px;
+    border: 1px solid rgb(118,25,25);
+    border-radius:5px ;
+    margin:0 auto;
+    text-align: center;
+}
+.card{
+    background-color: rgb(26,74,2);
+    height: 150px;
+    text-align: center;
+    line-height: 80px;
+    color:#fff
+}
+.button{
+    background-color: rgb(3, 3, 36);
+    color:#fff;
+    padding: 20px;
+    margin: 20px;
+    border: 0;
+    cursor: pointer;
+}
+.voltarDiv{
+    background-color: rgb(121, 8, 83);
+    color: #fff;
+    padding: 25px;
+    margin: 25px;
+}
+.tirarDiv{
+    background-color: rgb(9, 143, 143);
+    color: #fff;
+    padding: 25px;
+    margin: 25px;
+}
